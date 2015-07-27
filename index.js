@@ -14,13 +14,19 @@ var jsonParse = function(file) {
 app.get('/api/user/johndoe/latest_episodes', function(req, res) {
   var json = jsonParse(fromFile('/latest_episodes.json'));
 
-  res.json(json)
+  res.json(json);
 });
 
 app.get('/api/user/johndoe/feeds', function(req, res) {
   var json = jsonParse(fromFile('/user_feeds.json'));
 
-  res.json(json)
+  res.json(json);
+});
+
+app.get('/api/feeds/:id', function(req, res) {
+  var json = jsonParse(fromFile('/feed.json'));
+
+  res.json(json);
 });
 
 var server = app.listen(process.env.PORT || 3000, function () {
