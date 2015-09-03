@@ -1,7 +1,7 @@
 [![Build
 Status](https://snap-ci.com/alabeduarte/mypodcasts-api-stub/branch/master/build_image)](https://snap-ci.com/alabeduarte/mypodcasts-api-stub/branch/master)
 
-# My Podcasts
+# My Podcasts API stub
 
 API stub for [mypodcasts-android](https://github.com/alabeduarte/mypodcasts-android)
 
