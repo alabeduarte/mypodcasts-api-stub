@@ -3,14 +3,14 @@
     "id": "123456",
     "title": "Some podcast",
     "image":{
-      "url": "http://example.com/feed_image.jpg"
+      "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
     }
   },
   {
     "id": "987654",
     "title": "Another podcast",
     "image": {
-      "url": "http://example.com/another_feed_image.jpg"
+      "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
     }
   }
 ]

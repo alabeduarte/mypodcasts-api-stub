@@ -15,7 +15,7 @@
     "podcast":{
       "tittle": "MyPodcasts",
       "image":{
-        "url": "http://example.com/feed_image.jpg"
+        "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
       }
     }
   },
@@ -35,7 +35,7 @@
     "podcast": {
       "tittle": "Another podcasts",
       "image": {
-        "url": "http://example.com/another_feed_image.jpg"
+        "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
       }
     }
   }
