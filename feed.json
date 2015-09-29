@@ -9,6 +9,10 @@
       "title": "Newest Episode!",
       "publishedDate": "Sat, 20 Jun 2015 03:10:01 +0000",
       "description": "Newest episode description",
+      "image": {
+        "url":
+          "http://superpowered.com/wp-content/uploads/2014/04/Pitch-Shifting-Superpowered-Audio-SDK.png"
+      },
       "audio": {
         "url": "http://example.com/newest_episode.mp3",
         "length": "60000000",
@@ -25,6 +29,10 @@
       "title": "Newest Episode from another podcast",
       "publishedDate": "Fri, 19 Jun 2015 03:10:01 +0000",
       "description": "Another newest episode description",
+      "image": {
+        "url":
+          "http://superpowered.com/wp-content/uploads/2014/04/Pitch-Shifting-Superpowered-Audio-SDK.png"
+      },
       "enclosure": {
         "url": "http://example.com/another_newest_episode.mp3",
         "length": "52417026",
