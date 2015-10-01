@@ -14,7 +14,7 @@
           "http://superpowered.com/wp-content/uploads/2014/04/Pitch-Shifting-Superpowered-Audio-SDK.png"
       },
       "audio": {
-        "url": "http://example.com/newest_episode.mp3",
+        "url": "http://jovemnerd.com.br/podpress_trac/feed/118674/0/nerdcast_475_profissao_cientista.mp3",
         "length": "60000000",
         "type": "audio/mpeg"
       },
@@ -34,7 +34,7 @@
           "http://superpowered.com/wp-content/uploads/2014/04/Pitch-Shifting-Superpowered-Audio-SDK.png"
       },
       "enclosure": {
-        "url": "http://example.com/another_newest_episode.mp3",
+        "url": "http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR214RRC.mp3?rss=true",
         "length": "52417026",
         "type": "audio/mpeg"
       },
