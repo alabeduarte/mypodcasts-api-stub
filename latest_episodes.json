@@ -13,6 +13,7 @@
       "type": "audio/mpeg"
     },
     "podcast":{
+      "id": "123456",
       "tittle": "MyPodcasts",
       "image":{
         "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
@@ -33,6 +34,7 @@
       "type": "audio/mpeg"
     },
     "podcast": {
+      "id": "98765",
       "tittle": "Another podcasts",
       "image": {
         "url": "http://bigfatmarketing.com/wp-content/uploads/2014/06/podcasting.jpg"
