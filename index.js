@@ -23,7 +23,7 @@ app.get('/api/user/johndoe/feeds', function(req, res) {
   res.json(json);
 });
 
-app.get('/api/feeds/:id', function(req, res) {
+app.get('/api/user/johndoe/feeds/:id/episodes', function(req, res) {
   var json = jsonParse(fromFile('/feed.json'));
 
   res.json(json);
